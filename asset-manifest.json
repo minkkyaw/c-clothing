@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/c-clothing/static/css/main.bc9e0aa2.chunk.css",
+    "main.js": "/c-clothing/static/js/main.3dedb2dd.chunk.js",
+    "main.js.map": "/c-clothing/static/js/main.3dedb2dd.chunk.js.map",
+    "runtime~main.js": "/c-clothing/static/js/runtime~main.76ee8140.js",
+    "runtime~main.js.map": "/c-clothing/static/js/runtime~main.76ee8140.js.map",
+    "static/js/2.3ba42d18.chunk.js": "/c-clothing/static/js/2.3ba42d18.chunk.js",
+    "static/js/2.3ba42d18.chunk.js.map": "/c-clothing/static/js/2.3ba42d18.chunk.js.map",
+    "index.html": "/c-clothing/index.html",
+    "precache-manifest.ec8f3fe239c70c8f51a31b678c0e190c.js": "/c-clothing/precache-manifest.ec8f3fe239c70c8f51a31b678c0e190c.js",
+    "service-worker.js": "/c-clothing/service-worker.js",
+    "static/css/main.bc9e0aa2.chunk.css.map": "/c-clothing/static/css/main.bc9e0aa2.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/c-clothing/static/media/crown.ed28accb.svg"
+  }
+}
