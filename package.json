@@ -2,7 +2,7 @@
   "name": "crown-clothing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://minkkyaw.github.io/crown-clothing-online",
+  "homepage": "https://minkkyaw.github.io/c-clothing",
   "dependencies": {
     "firebase": "^6.4.0",
     "gh-pages": "^2.1.1",
